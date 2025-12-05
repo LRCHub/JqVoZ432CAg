@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "スパートシンドローマー",
+  "base_artist": "10-FEET",
+  "createdAt": "2025-12-05T17:28:18.829581Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "スパートシンドローマー",
+      "artist": "10-FEET",
+      "has_synced": false,
+      "path": "select/pl_01_スパートシンドローマー_10-FEET.txt"
+    }
+  ]
+}
